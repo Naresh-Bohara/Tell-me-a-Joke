@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: black;
+    padding: 10px 12px;
+
+}
+    ul{
+    display: flex;
+}
+
+ul li{
+    list-style: none;
+    padding: 0px 23px;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+
+div{
+    margin-top: 90px;
+    text-align: center;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: large;
+    margin-top: 10px;
+    color: rgb(111, 98, 227);
+}
+
+h1{
+    color: rgb(255, 0, 0);
+}
+
+button{
+   margin: 20px;
+   width: 65px;
+   height: 32px;
+   color: white;
+   background-color: black;
+   border-radius: 10px;
+}
+
+footer{
+    text-align: center;
+    margin-top: 380px;
+    background-color: black;
+    color: white;
+    height: 30px;
+}
